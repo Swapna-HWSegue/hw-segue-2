@@ -1,0 +1,12 @@
+this is the content added using cat command
+to create the file and add content
+hello
+hai
+how are you
+all the best
+Welcome to vi editor
+vi filename = to open file in vi
+press i
+enter the content
+press esc
+press :wq
